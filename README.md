@@ -34,10 +34,5 @@ Solution of problem 1 to 3 for Bongo Android Developer code test
         if (isAnagramCase2) fail("Case 2 gave wrong result")
     }
    ~~~
-##Problem 2 : 
-Direct code Location: https://github.com/shubhobrataroy/BongoProblems1to3/tree/master/app/src/main/java/com/shubhobrataroy/bongoproblems1to3/problem2
-
-##Problem 3 : 
-Direct code location : https://github.com/shubhobrataroy/BongoProblems1to3/tree/master/app/src/main/java/com/shubhobrataroy/bongoproblems1to3/problem3
 
 
