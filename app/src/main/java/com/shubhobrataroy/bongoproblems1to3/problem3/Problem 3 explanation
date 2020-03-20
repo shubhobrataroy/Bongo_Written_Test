@@ -1,0 +1,6 @@
+Here there are two implementations of IVideoPlayerView .
+1st implementation CustomVideoPlayerVideoView is  VideoView based.
+Another implementation CustomVideoPlayerExoPlayer is Exo Player 2 based.
+On Problem3VideoPlayerActivity I have wrapped the implementations of IVideoPlayerView , with the interface.
+So even if I change the video player with any that implements IVideoPlayerView, we dont have to change any code of Problem3VideoPlayerActivity
+You can change the video player on activity_problem3_video_player.xml from CustomVideoPlayerExoPlayer to CustomVideoPlayerVideoView and the app will still work
